@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bottom nav items. Add the matching vector icons via:
+     Android Studio > res > New > Vector Asset, then search the Material
+     icon name listed in each comment below. -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <!-- Material icon search term: "home" -->
+
+    <item
+        android:id="@+id/nav_explore"
+        android:icon="@drawable/ic_explore"
+        android:title="Explore" />
+    <!-- Material icon search term: "explore" -->
+
+    <item
+        android:id="@+id/nav_saved"
+        android:icon="@drawable/ic_favorite"
+        android:title="Saved" />
+    <!-- Material icon search term: "favorite_border" -->
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person"
+        android:title="Profile" />
+    <!-- Material icon search term: "person_outline" -->
+
+</menu>

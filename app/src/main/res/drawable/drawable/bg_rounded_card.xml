@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- White card background with a thin border, 12dp corners.
+     Used for: top destination cards, search bar.
+     Swap android:color under <stroke> if you want a stronger outline. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="@color/white" />
+
+    <stroke
+        android:width="1dp"
+        android:color="@color/border_light" />
+
+    <corners android:radius="12dp" />
+
+</shape>

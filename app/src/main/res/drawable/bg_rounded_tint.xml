@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Plain rounded rectangle, color is set per-view with android:backgroundTint.
+     This keeps one drawable reusable across every colored tile in the app:
+     category tiles, the hero banner, festival rows, experience icon circles. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="@color/white" />
+
+    <corners android:radius="12dp" />
+
+</shape>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base -->
+    <color name="white">#FFFFFF</color>
+    <color name="surface">#F1EFE8</color>
+    <color name="border_light">#D3D1C7</color>
+    <color name="text_primary">#2C2C2A</color>
+    <color name="text_secondary">#5F5E5A</color>
+    <color name="text_tertiary">#888780</color>
+
+    <!-- Coral: hero banner, primary brand accent -->
+    <color name="coral_50">#FAECE7</color>
+    <color name="coral_100">#F5C4B3</color>
+    <color name="coral_600">#993C1D</color>
+    <color name="coral_700">#712B13</color>
+    <color name="coral_800">#4A1B0C</color>
+
+    <!-- Amber: forts/castles category, amber accents -->
+    <color name="amber_50">#FAEEDA</color>
+    <color name="amber_600">#854F0B</color>
+    <color name="amber_800">#412402</color>
+
+    <!-- Teal: beaches category -->
+    <color name="teal_50">#E1F5EE</color>
+    <color name="teal_600">#085041</color>
+    <color name="teal_800">#04342C</color>
+
+    <!-- Green: wildlife category -->
+    <color name="green_50">#EAF3DE</color>
+    <color name="green_600">#27500A</color>
+    <color name="green_800">#173404</color>
+
+    <!-- Pink: festivals category -->
+    <color name="pink_50">#FBEAF0</color>
+    <color name="pink_600">#72243E</color>
+    <color name="pink_800">#4B1528</color>
+
+    <!-- Purple: markets category -->
+    <color name="purple_50">#EEEDFE</color>
+    <color name="purple_600">#3C3489</color>
+    <color name="purple_800">#26215C</color>
+
+    <!-- Bottom nav -->
+    <color name="nav_selected">#993C1D</color>
+    <color name="nav_unselected">#5F5E5A</color>
+
+</resources>
